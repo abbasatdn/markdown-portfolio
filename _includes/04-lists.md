@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Herte is a list of my item
+- Programming
+- Ted Ed
+- Learning GitHub
