@@ -1,11 +1,11 @@
-  # Skills to be improved
+  #Skills to be improved
   Below is a _list_ of **skills** to be developed:
-  ## Programming languages
+  ##Programming languages
   - R
   - Python
-  ## Collaboration
+  ##Collaboration
   - GitHub
-  ## Statistics
+  ##Statistics
   - ANOVA
   - POWER
   - DOE
