@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+  # Skills to be improved
+  Below is a _list_ of **skills** to be developed:
+  ## Programming languages
+  - R
+  - Python
+  ## Collaboration
+  - GitHub
+  ## Statistics
+  - ANOVA
+  - POWER
+  - DOE
