@@ -10,3 +10,4 @@
   - ANOVA
   - POWER
   - DOE
+  - ADD HOC
